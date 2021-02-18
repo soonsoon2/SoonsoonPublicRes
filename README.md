@@ -9,7 +9,7 @@ Path : Assets/Res/
 AR Foundation Example
 ---------------------
 
-1) Image Tracking
+1. Image Tracking
 
 <p>[Path] 
 <br>Assets/SampleProject/ImageTracking
