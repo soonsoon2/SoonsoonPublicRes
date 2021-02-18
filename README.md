@@ -11,11 +11,11 @@ AR Foundation Example
 
 1) Image Tracking
 Path : Assets/SampleProject/ImageTracking
-- It is a simple example with Unity AR Foundation Image Tracking.
-- It has a sameple code about removed state in Image Tracking.
-- It had a example build apk file for android device.
+<br>It is a simple example with Unity AR Foundation Image Tracking.
+<br>It has a sameple code about removed state in Image Tracking.
+<br>It had a example build apk file for android device.
 
-  You can see youtube tutorial is related with this sample code.
+- You can see youtube tutorial is related with this sample code.
   <br> Single Image Tracking : https://youtu.be/Qyu_AN5zv14
   <br> Multi Imgae Tracking : https://youtu.be/rJDGJUfxrN4
   <br> Removed State Example : https://youtu.be/qIxClnigves
