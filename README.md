@@ -16,6 +16,6 @@ Path : Assets/SampleProject/ImageTracking
 - It had a example build apk file for android device.
 
 You can see youtube tutorial is related with this sample code.
-Single Image Tracking : https://youtu.be/Qyu_AN5zv14
-Multi Imgae Tracking : https://youtu.be/rJDGJUfxrN4
-Removed State Example : https://youtu.be/qIxClnigves
+<br> Single Image Tracking : https://youtu.be/Qyu_AN5zv14
+<br> Multi Imgae Tracking : https://youtu.be/rJDGJUfxrN4
+<br> Removed State Example : https://youtu.be/qIxClnigves
