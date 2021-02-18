@@ -15,7 +15,7 @@ Path : Assets/SampleProject/ImageTracking
 - It has a sameple code about removed state in Image Tracking.
 - It had a example build apk file for android device.
 
-You can see youtube tutorial is related with this sample code.
-<br> Single Image Tracking : https://youtu.be/Qyu_AN5zv14
-<br> Multi Imgae Tracking : https://youtu.be/rJDGJUfxrN4
-<br> Removed State Example : https://youtu.be/qIxClnigves
+  You can see youtube tutorial is related with this sample code.
+  <br> Single Image Tracking : https://youtu.be/Qyu_AN5zv14
+  <br> Multi Imgae Tracking : https://youtu.be/rJDGJUfxrN4
+  <br> Removed State Example : https://youtu.be/qIxClnigves
