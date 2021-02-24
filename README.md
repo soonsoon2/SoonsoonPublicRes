@@ -31,7 +31,7 @@ AR Foundation Example
 <br>-It is a simple example with Unity AR Draw 
 <br>-It had a example build apk file for android device. 
   
-[Download](https://github.com/soonsoon2/SoonsoonPublicRes/raw/master/Assets/SamepleProject/ImageTracking/APK/ImageTracking.apk,"apk download")
+[Download][https://github.com/soonsoon2/SoonsoonPublicRes/raw/master/Assets/SamepleProject/ImageTracking/APK/ImageTracking.apk]
 
 <p>[Youtube Tutorial]
 <br> AR Draw Line : https://youtu.be/be1buuk-DKs
