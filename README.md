@@ -1,6 +1,5 @@
 It is a game development source provided for free in Soonsoon.
 
-
 Soonsoon & Ari
 --------------
 Path : Assets/Res/
@@ -30,9 +29,7 @@ AR Foundation Example
 <p>[Description]
 <br>-It is a simple example with Unity AR Draw 
 <br>-It had a example build apk file for android device. 
-  
-[Download][https://github.com/soonsoon2/SoonsoonPublicRes/raw/master/Assets/SamepleProject/ImageTracking/APK/ImageTracking.apk]
-[googlelink]: https://google.com "Go google"
+https://github.com/soonsoon2/SoonsoonPublicRes/raw/master/Assets/SamepleProject/ImageTracking/APK/ImageTracking.apk
 
 <p>[Youtube Tutorial]
 <br> AR Draw Line : https://youtu.be/be1buuk-DKs
