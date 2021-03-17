@@ -9,7 +9,7 @@ AR Foundation Example
 ---------------------
 
 
-<p>1.Image Tracking
+<p><b>1.Image Tracking</b>
 
 <p>[Path] 
 <br>Assets/SampleProject/ImageTracking
@@ -23,7 +23,7 @@ AR Foundation Example
 <br> Removed State Example : https://youtu.be/qIxClnigves
 
 
-<p>2. AR Drawing Exaple
+<p><b>2.AR Drawing Exaple</b>
 
 <p>[Path] 
 <br>Assets/SampleProject/AR Drawing
@@ -36,7 +36,7 @@ https://github.com/soonsoon2/SoonsoonPublicRes/raw/master/Assets/SamepleProject/
 <br> AR Draw Line : https://youtu.be/be1buuk-DKs
   
   
-<p>2. AR Ruler
+<p><b>3.AR Ruler</b>
 
 <p>[Path] 
 <br>Assets/SampleProject/ARRuler
