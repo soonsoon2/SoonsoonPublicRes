@@ -1,5 +1,18 @@
 It is a game development source provided for free in Soonsoon.
 
+Developer Blog Post ( Korean Language ) & Video Tutorials
+
+https://www.soonsoon.io/unity-ar-foundation-basic-tutorial/
+
+License Rule
+------------
+Anyone can use it for free for personal hobby development and learning purposes.
+
+Any use of resources from this repository for commercial development, paid release, contest entry, or other platform release requires permission from the creator.
+
+If any of the above applies, please send details to soonsoon@soonsoons.com.
+
+
 Soonsoon & Ari
 --------------
 Path : Assets/Res/
