@@ -31,9 +31,9 @@ AR Foundation Example
 <br>-It has a sameple code about removed state in Image Tracking.
 <br>-It had a example build apk file for android device.
 <p>[Youtube Tutorial]
-<br> Single Image Tracking : https://youtu.be/Qyu_AN5zv14
-<br> Multi Imgae Tracking : https://youtu.be/rJDGJUfxrN4
-<br> Removed State Example : https://youtu.be/qIxClnigves
+<br> Single Image Tracking : https://youtu.be/KHhxgGTDHms
+<br> Multi Imgae Tracking : https://youtu.be/JaxT9pDxfBs
+<br> Removed State Example : https://youtu.be/0CZ6gRIZX6s
 
 
 =========================================================================
@@ -47,7 +47,7 @@ AR Foundation Example
 https://github.com/soonsoon2/SoonsoonPublicRes/raw/master/Assets/SamepleProject/ImageTracking/APK/ImageTracking.apk
 
 <p>[Youtube Tutorial]
-<br> AR Draw Line : https://youtu.be/be1buuk-DKs
+<br> AR Draw Line : https://youtu.be/mExjEICBoEs
   
   
 ========================================================================= 
@@ -59,7 +59,7 @@ https://github.com/soonsoon2/SoonsoonPublicRes/raw/master/Assets/SamepleProject/
 <br>-It is a simple example with Unity AR Ruler
 
 <p>[Youtube Tutorial]
-<br> AR Ruler : https://youtu.be/k8RRTCfdFQ8
+<br> AR Ruler : https://youtu.be/dWfDnyBVyxc
   
   
   
@@ -72,3 +72,4 @@ https://github.com/soonsoon2/SoonsoonPublicRes/raw/master/Assets/SamepleProject/
 <br>-It is a simple example with Unity AR Classfication Plane and place object
 
 <p>[Youtube Tutorial]
+<br> AR Classfication Plane : https://youtu.be/HJHZMzxtmfY
